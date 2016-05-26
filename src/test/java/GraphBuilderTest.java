@@ -1,9 +1,6 @@
 import org.junit.Assert;
 import org.junit.Test;
 
-/**
- * Created by Jay on 26/05/2016.
- */
 public class GraphBuilderTest {
 
     private static GraphBuilder graphBuilder = new GraphBuilder();
